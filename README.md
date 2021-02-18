@@ -23,6 +23,8 @@ cd catkin_ws/src
 
 ```bash
 git clone https://gitee.com/RENyunfan/joy2twist.git
+# or
+git clone https://github.com/RENyunfan/joy2twist.git
 ```
 
 ### 3 Build
